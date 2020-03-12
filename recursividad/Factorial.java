@@ -3,7 +3,7 @@ class Factorial{
   public static void main(String args[]){  
 
     int i,resultado=1;  
-    int numero=5;
+    int numero=4;
 
     for(i=1;i<=numero;i++){    
         resultado=resultado*i;    
